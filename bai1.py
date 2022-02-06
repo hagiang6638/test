@@ -15,3 +15,5 @@ print("{0} // {1} = {2}".format(a, b, a//b))
 print("Phép chia phần dư của 2 số nguyên {0}, {1}: ".format(a, b))
 print("{0} % {1} = {2}".format(a, b, a%b))
 
+print("1+1=2")
+
